@@ -1,7 +1,7 @@
 {
-  "name": "friendsfinder_node_express_app",
+  "name": "friendsfinder4u",
   "version": "1.0.0",
-  "description": "basic dating app created as an assignment for the UT Coding Bootcamp",
+  "description": "basic dating app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GavinC4/FriendFinder_Node_Express_App.git"
+    "url": "git+https://github.com/GavinC4/FriendFinder4U.git"
   },
   "keywords": [
     "node",
@@ -17,12 +17,12 @@
     "dating",
     "app"
   ],
-  "author": "Nigel Finley",
+  "author": "Gavin Clay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GavinC4/FriendFinder_Node_Express_App/issues"
+    "url": "https://github.com/GavinC4/FriendFinder4U/issues"
   },
-  "homepage": "https://github.com/GavinC4/FriendFinder_Node_Express_App#readme",
+  "homepage": "https://github.com/GavinC4/FriendFinder4U#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
