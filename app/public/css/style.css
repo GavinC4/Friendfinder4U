@@ -1,0 +1,101 @@
+/* Apply Google font to entire body */
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    background-color: #b4dddd;
+}
+
+
+/* Main game heading styles */
+
+.jumbotron {
+    font-family: 'Bungee', cursive;
+    margin-bottom: 5px;
+    background: transparent;
+    color: #000;
+
+}
+
+/*div.jumbotron.surverypage {
+    margin-bottom: -83px;
+}*/
+
+.jumbotron h1#date {
+    position: absolute;
+    top: 17%;
+    right: 66%;
+    text-align: right;
+    font-size: 6.5em;
+    letter-spacing: -1px;
+    text-transform: capitalize;
+    -webkit-transform: skewY(-36deg);
+    transform: skewY(-36deg);
+    z-index: 1;
+    color: #efefef;
+    text-shadow: 3px 3px #333, -1px -1px #fff, -1px 1px #fff, 1px -1px #fff, 1px 0px #fff, -1px 0px #fff, 0px -1px #fff, 0px 1px #fff, 0px 0px 3px #F51600;
+}
+.jumbotron h2#mate {
+   position: absolute;
+    top: 17%;
+    right: 16%;
+    text-align: right;
+    font-size: 5.5em;
+    letter-spacing: -1px;
+    text-transform: capitalize;
+    -webkit-transform: skewY(48deg);
+    transform: skewY(48deg);
+    z-index: 1;
+    color: #efefef;
+    text-shadow: 3px 3px #333, -1px -1px #fff, -1px 1px #fff, 1px -1px #fff, 1px 0px #fff, -1px 0px #fff, 0px -1px #fff, 0px 1px #fff, 0px 0px 1px #F51600;
+}
+
+/* Center align all text */
+
+.fa-cog{
+    color: rgba(255, 75, 75, 0.73);
+}
+
+.btn-custom {
+    background-color: rgba(255, 75, 75, 0.73);
+    margin-bottom: 30px;
+    margin-top:30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+    border-radius: 2px;
+    font-size: 25px;
+    width:25%
+}
+
+.btn-purple {
+    background-color: #aa44aa;
+}
+
+.btn-blue {
+    background-color: #4477aa;
+}
+
+.form-control {
+    width: 48%;
+}
+
+select.form-control {
+    width: 15%;
+}
+
+.survey-lingo {
+    color: white;
+    margin-top: 60px;
+}
+
+#api-lists {
+    font-size: 20px;
+}
+
+.mainBody {
+    margin-top: -80px;
+}
